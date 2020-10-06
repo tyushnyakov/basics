@@ -2,6 +2,8 @@
 перейдите по ссылке https://tyushnyakov.github.io/basics,
 введите логин: user и пароль: 12345
 
+Функции добавления, редактирования и удаления прописаны, но не работают, так как API фейковый.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
