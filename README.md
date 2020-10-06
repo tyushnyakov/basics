@@ -1,5 +1,5 @@
 Чтобы запустить приложение contacts,
-перейдите по ссылке https://tyushnyakov.github.io/contacts,
+перейдите по ссылке https://tyushnyakov.github.io/basics,
 введите логин: user и пароль: 12345
 
 
