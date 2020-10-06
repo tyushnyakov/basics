@@ -1,3 +1,8 @@
+Чтобы запустить приложение contacts,
+перейдите по ссылке https://tyushnyakov.github.io/contacts,
+введите логин: user и пароль: 12345
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
