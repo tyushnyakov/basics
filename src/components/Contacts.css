@@ -1,0 +1,21 @@
+.wrapper {
+    min-height: 100vh;
+}
+
+.header {
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 60px;
+}
+
+li {
+    list-style-type: none;
+}
+
+.search-wrapper {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
